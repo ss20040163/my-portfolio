@@ -10,6 +10,7 @@ Font Awesome
 Google Fonts
 
 
-
 ### Sub Sub Heading - Just another push
 This is another push to test markdown understanding.
+
+One last update before I move on to Section 3.
